@@ -31,7 +31,7 @@
     "vscode": "^1.1.22",
     "vscode-languageclient": "^5.1.1"
   },
-  "publisher": "apollographql",
+  "publisher": "Artsy",
   "categories": [
     "Programming Languages",
     "Linters"
